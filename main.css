@@ -1,7 +1,7 @@
 /* This changes color and removes default underline in links  */
 
 a {
-color: blue;
+color: lightblue;
 text-decoration: none;
 }
 
