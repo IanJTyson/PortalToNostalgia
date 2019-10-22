@@ -66,7 +66,7 @@ img {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: pink;
+    background-color: #0EBDBF;
     min-width: 500px;
     z-index: 1;
 }
