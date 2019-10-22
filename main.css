@@ -1,12 +1,12 @@
 /* This changes color and removes default underline in links  */
 
 a {
-color: lightblue;
+color: blue;
 text-decoration: none;
 }
 
 a:hover {
-    color: pink;
+    color: lightblue;
   }
 
 .link-two:hover {
